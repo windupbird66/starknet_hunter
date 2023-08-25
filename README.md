@@ -1,6 +1,7 @@
 # 
 ## 1. 准备环境
 确保你安装了以下组件：  
+
 **Python**：该脚本使用Python编写，所以您需要安装Python。  
 **ChromeDriver**：脚本使用Selenium库与Chrome浏览器交互，因此您需要安装ChromeDriver。  
 下载对应的版本https://googlechromelabs.github.io/chrome-for-testing/  
