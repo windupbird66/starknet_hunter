@@ -1,5 +1,5 @@
-![Uploading image.png…]()
-
+[![Uploading image.png…]()
+](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblockzeit.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fimage-37.png&tbnid=olRpqNGo293AiM&vet=12ahUKEwjX8q35rPeAAxX3afUHHZ_VCicQMygQegQIARB2..i&imgrefurl=https%3A%2F%2Fblockzeit.com%2Fstark-token-confirmed-details-on-starkwares-new-token%2F&docid=FwLyl0jVkJs82M&w=1271&h=583&q=starknet&ved=2ahUKEwjX8q35rPeAAxX3afUHHZ_VCicQMygQegQIARB2)
 
 ## 1. 准备环境
 
