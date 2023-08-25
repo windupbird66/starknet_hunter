@@ -1,4 +1,4 @@
-# starknet_hunter
+#
 
 ## 1. 准备环境
 
