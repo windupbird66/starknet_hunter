@@ -1,4 +1,4 @@
-![Image text](https://boxmining.com/wp-content/uploads/2023/02/shie.jpg)
+![Image text](https://pbs.twimg.com/media/FoH0fflWQAU4EtK.jpg:large)
 
 ## 1. 准备环境
 
