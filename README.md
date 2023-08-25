@@ -1,4 +1,4 @@
-![Image text](<img width="1263" alt="image" src="https://github.com/windupbird66/starknet_hunter/assets/141799658/378f8e0f-925f-4410-bbc2-22d6e19ccb6b">)
+![Image text](https://github.com/windupbird66/img_folder/blob/main/31631692951655_.pic_hd.jpg)
 
 ## 1. 准备环境
 
