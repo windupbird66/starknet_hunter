@@ -1,4 +1,4 @@
-![Image text](https://blockzeit.com/wp-content/uploads/2022/07/image-37.png)
+![Image text](<img width="1263" alt="image" src="https://github.com/windupbird66/starknet_hunter/assets/141799658/378f8e0f-925f-4410-bbc2-22d6e19ccb6b">)
 
 ## 1. 准备环境
 
