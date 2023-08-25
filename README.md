@@ -1,4 +1,4 @@
-![Image text]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://blockzeit.com/wp-content/uploads/2022/07/image-37.png))
+![Image text](https://blockzeit.com/wp-content/uploads/2022/07/image-37.png)
 
 ## 1. 准备环境
 
